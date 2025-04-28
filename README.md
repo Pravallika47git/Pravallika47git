@@ -17,8 +17,8 @@ Currently exploring **Web Development** and **Open Source Contributions**.
 - Preparing for Open Source Contribution (GSSoC 2025)
 
 📫 How to reach me:
-- [LinkedIn]()  
-- [GitHub]()  
+- [LinkedIn](www.linkedin.com/in/krishnapravallika547)  
+- [GitHub](https://github.com/Pravallika47git)  
 
 ---
 

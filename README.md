@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Pravallika! 👋
 
-<!--
-**Pravallika47git/Pravallika47git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 😊
 
-Here are some ideas to get you started:
+I am a **Computer Science student** who is interested in learning and growing in the world of technology.  
+Currently exploring **Web Development** and **Open Source Contributions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Skills:
+- C Programming
+- Java (Basics)
+- Python (Basics)
+- HTML & CSS
+- Git and GitHub (Basics)
+
+ 🌱 Currently Learning:
+- Web Development (HTML, CSS, JavaScript)
+- Preparing for Open Source Contribution (GSSoC 2025)
+
+📫 How to reach me:
+- [LinkedIn]()  
+- [GitHub]()  
+
+---
+
+I’m excited to collaborate, contribute, and learn new things! 🚀  
+Thanks for visiting my profile! 🙌
+
+
+

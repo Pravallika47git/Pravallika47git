@@ -14,7 +14,6 @@ Currently exploring **Web Development** and **Open Source Contributions**.
 
  🌱 Currently Learning:
 - Web Development (HTML, CSS, JavaScript)
-- Preparing for Open Source Contribution (GSSoC 2025)
 
 📫 How to reach me:
 - [LinkedIn](www.linkedin.com/in/krishnapravallika547)  
